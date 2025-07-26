@@ -34,7 +34,7 @@ The model is trained to detect and classify shots like pull, sweep, straight dri
 
 We used a custom-labeled video dataset with frame-wise annotations of cricket shots.
 
-🔗 **Kaggle Link**: [Click here to access the dataset](https://www.kaggle.com/your-dataset-link)  
+🔗 **Kaggle Link**: [Click here to access the dataset](https://www.kaggle.com/datasets/taarunsridhar/cricket-shots-ipl-2023)  
 (Note: You'll need to download and place it in a local `data/` folder)
 
 ---
@@ -65,13 +65,13 @@ We used a custom-labeled video dataset with frame-wise annotations of cricket sh
 
 We authored and published **two papers** as part of this project, highlighting both the technical approach and its application in real-world coaching environments.
 
-1. **"Automated Cricket Shot Recognition using Convolutional Neural Networks"**  
+1. **"Building a Video Dataset for Cricket Shot Analysiss"**  
    📍 *Published in International Journal of Engineering Research & Technology (IJERT)*  
-   📝 [Link to paper if available]
+   📝 (https://ieeexplore.ieee.org/abstract/document/10276358)
 
-2. **"Deep Learning-Based Performance Analysis of Cricket Players in Resource-Constrained Settings"**  
-   📍 *Presented at [Insert Conference Name]*  
-   📝 [Link or DOI]
+2. **"Classification of Cricket Shots from Cricket Videos using Deep Learning Models"**  
+   📍 *Presented at International Journal of Engineering Research in Computer Science and Engineering*  
+   📝 https://ijercse.com/classification-cricket.php)
 
 🔹 I served as the **lead author** for both publications, working under the guidance of Dr. Sujatha R. Upadhyaya.  
 🔹 These papers were part of our **final year capstone project**.
