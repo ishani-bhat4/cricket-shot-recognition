@@ -13,8 +13,7 @@ The system achieved an accuracy of **99.4%**, and our research led to the public
 - [Technologies Used](#technologies-used)
 - [Notebook Structure](#notebook-structure)
 - [Published Papers](#published-papers)
-- [How to Run](#how-to-run)
-- [Authors](#authors)
+
 
 ---
 
@@ -78,9 +77,3 @@ We authored and published **two papers** as part of this project, highlighting b
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cricket-shot-recognition.git
-   cd cricket-shot-recognition
